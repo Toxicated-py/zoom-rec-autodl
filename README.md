@@ -88,7 +88,7 @@ Before using this script, ensure you have the following:
 
 1. Run the script to fetch and download recordings:
     ```sh
-    python import-requests.py
+    python rec-dl.py
     ```
 
 2. Follow the prompts to specify the date range or the number of past weeks for which you want to download recordings.
